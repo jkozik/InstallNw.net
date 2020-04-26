@@ -1,6 +1,6 @@
 <?php 
 $apikey = "";
-$wuapikey = "fa63d841d496b5a3bef524e978d579d8";
+$wuapikey = "795022200a154cb69022200a15ccb6d2";
 $wuapiunit   = "e";
 $weatherflowID = "5153";
 $weatherflowdairID = "14584";
